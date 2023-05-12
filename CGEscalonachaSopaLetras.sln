@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGEscalonachaSopaLetras", "CGEscalonachaSopaLetras\CGEscalonachaSopaLetras.csproj", "{BB347184-060F-4AC2-8141-3C8BC9A1E010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB347184-060F-4AC2-8141-3C8BC9A1E010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB347184-060F-4AC2-8141-3C8BC9A1E010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB347184-060F-4AC2-8141-3C8BC9A1E010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB347184-060F-4AC2-8141-3C8BC9A1E010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5F268A-D43A-4E8B-BB54-5438A7096424}
+	EndGlobalSection
+EndGlobal
